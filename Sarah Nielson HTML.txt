@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First HTML Page</title>
+        <style>
+            body {
+                background-color:#fff5d7;
+            }
+
+            h1 {
+                text-align: center;
+                color:darkblue;
+            }
+
+            p {
+                font-size:20px;
+                font-family:verdana;
+            }
+            
+            body {
+                border-style: dashed;
+                border-color: white;
+                border-width: 4px;
+                padding: 15px;
+            }
+            img {
+                width: 200px;
+                height:300px;
+                padding:40px;
+            }
+            table, th, td {
+                border:1px dotted black;
+                padding:10px;
+                padding-top: 20px;
+                text-align: center;
+            }
+        
+            .fcc-btn {
+                background-color: #ADD8E6;
+                color: black;
+                padding: 15px 10px;
+                text-decoration: none;
+            }
+
+            .fcc-btn:hover {
+                background-color: #223094;
+            }
+
+            .div-1 {
+                padding-bottom: 30px;
+                text-align: center;
+            }
+        </style>
+    </head>
+        <body>
+            <h1>My First HTML Page</h1>
+            <div class="intro">
+                <p>
+                    The mountains are majestic and awe-inspiring 
+                    natural formations that captivate the imagination 
+                    of all who gaze upon them. Their towering peaks, 
+                    covered in a blanket of snow or lush greenery, 
+                    evoke a sense of adventure and wonder.
+                </p> 
+                <p> Whether it's 
+                    exploring their rugged trails, skiing down their 
+                    slopes, or simply marveling at their grandeur from 
+                    afar, the mountains offer a sense of solace and a 
+                    connection to the raw beauty of the natural world.
+                </p>
+            </div>
+           
+            <a class="btn" href="https://en.wikipedia.org/wiki/Glacial_lake" target="_blank"> 
+                <img src="https://york.services.cloudsofttest.com/images/york-solutions/file-20191118-66979-1ca3kkd.jpg" alt="Mountain Reflection">
+            </a>
+           
+            <a class="btn" href="https://en.wikipedia.org/wiki/Mountain_formation" target="_blank">
+                <img src="https://york.services.cloudsofttest.com/images/york-solutions/matterhorn-3x2.jpg" alt="Tall Peak">
+            </a>
+       
+            <div class="div-1">
+                <a class="fcc-btn" href="https://en.wikipedia.org/wiki/Mountain" target="_blank">Mountains Defined</a>
+                <a class="fcc-btn" href="https://en.wikipedia.org/wiki/Mountain_formation" target="_blank">Mountain Formation</a>
+                <a class="fcc-btn" href="https://en.wikipedia.org/wiki/List_of_mountain_types" target="_blank">Types of Mountains</a>
+                <a class="fcc-btn" href="https://en.wikipedia.org/wiki/Plate_tectonics" target="_blank">Plate Tectonics</a>
+            </div>    
+
+            <table style="width:100%;">
+                <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th>
+                    <th>City</th>
+                    <th>State</th>
+                    <th>Birth Month</th>
+                </tr>
+                <tr>
+                    <td>Suzett</td>
+                    <td>Berkshire</td>
+                    <td>St. Petersburg</td>
+                    <td>Florida</td>
+                    <td>January</td>
+                </tr>
+                <tr>
+                    <td>Antoine</td>
+                    <td>Coleman</td>
+                    <td>Boulder</td>
+                    <td>Colorado</td>
+                    <td>May</td>
+                </tr>
+                <tr>
+                    <td>Marianne</td>
+                    <td>Fortescue</td>
+                    <td>Bluff</td>
+                    <td>Alaska</td>
+                    <td>July</td>
+                </tr>
+                <tr>
+                    <td>Lucas</td>
+                    <td>Johansson</td>
+                    <td>Soda Springs</td>
+                    <td>Idaho</td>
+                    <td>February</td>
+                </tr>
+                <tr>
+                    <td>Tahani</td>
+                    <td>Azad</td>
+                    <td>Dinosaur</td>
+                    <td>Colorado</td>
+                    <td>September</td>
+                </tr>
+            </table>
+        </body>
+</html>
