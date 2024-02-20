@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... projects that compliment my theoretical learning 
 - 📫 How to reach me ... You can reach me at sarahnielson86@gmail.com
 - 😄 Pronouns: ... She/they
-- ⚡ Fun fact: ... I'm a painter! I like to paint the most with watercolor and ink. my site is KhioriCreative.com
+- ⚡ Fun fact: ... I'm a painter! I like to paint the most with watercolor and ink. My site is KhioriCreative.com
 
 <!---
 Sarah-Nielson/Sarah-Nielson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
